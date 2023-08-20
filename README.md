@@ -1,10 +1,12 @@
 <h1 align="center">Clone da Home Page do Spotify</h1>
 
 * [Descrição do Projeto](#descrição-do-projeto)
-* [Tecnologias](#tecnologias)
+* [Tecnologias](#tecnologias-utilizadas)
 * [Layout](#layout)
+  * [Web](#web)
+  * [Mobile](#mobile)
 
-<h2>Descrição do Projeto</h2>
+<h2>Descrição do projeto</h2>
 
 <p>
   O projeto foi desenvolvido com o objetivo de praticar conceitos do Tailwind.
@@ -17,14 +19,14 @@
 
 <h2>Layout</h2>
 
-<h3 align="center">Web</h3>
+<h3 align="left">Web</h3>
 
-<div align="center">
-  <img src="./src/img/screenshots/web-view.png" width="768px">
+<div align="left">
+  <img src="./src/img/screenshots/web-view.png" width="auto">
 </div>
 
-<h3 align="center">Mobile</h3>
+<h3 align="left">Mobile</h3>
 
-<div align="center">
-  <img src="./src/img/screenshots/mobile-view.png" width="768px">
+<div align="left">
+  <img src="./src/img/screenshots/mobile-view.png" width="auto">
 </div>
